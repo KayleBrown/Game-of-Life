@@ -48,7 +48,7 @@ This C# application simulates Conway's Game of Life, a cellular automaton devise
   If needed, find and modify variables in the code related to the grid size.
 
 ## Examples
-![Game of Life Gif]([URL](https://gifyu.com/image/Sja4O))
+![Game of Life Gif](https://s13.gifyu.com/images/SjaaH.gif)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
