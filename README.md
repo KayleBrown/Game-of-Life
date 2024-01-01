@@ -1,6 +1,4 @@
-Certainly! Creating a README file for your Game of Life implementation in C# is a great way to provide users with information about how to use your program. Here's a template you can use:
 
-```markdown
 # Game of Life in C#
 
 ## Overview
