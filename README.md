@@ -13,7 +13,7 @@ This C# application simulates Conway's Game of Life, a cellular automaton devise
 ## Getting Started
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/KayleBrown/game-of-life-csharp.git
+   git clone https://github.com/KayleBrown/Game-of-Life.git
    ```
 
 2. **Open the Solution:**
