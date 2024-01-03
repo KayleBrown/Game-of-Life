@@ -50,9 +50,6 @@ This C# application simulates Conway's Game of Life, a cellular automaton devise
 ## Examples
 ![Game of Life Gif](https://s13.gifyu.com/images/SjaaH.gif)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Author
 [Kayle Brown]
 [kaylebrown3825@gmail.com]
